@@ -30,3 +30,15 @@ hover-https://yuvasrisathishkumar7-hue.github.io/Fronted__Web/hoverr.html
      - http://127.0.0.1:5500/hoverr.html
 
 ppt-https://www.canva.com/design/DAHERXy1SwY/_vtJlfd6r7fs19yY7PPCKw/edit?utm_content=DAHERXy1SwY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+10-http://127.0.0.1:5500/10.html
+
+ppt-https://docs.google.com/presentation/d/1_8IDhLdXgID61IjDJYLVtGBVPIa7VHkC/edit?usp=drive_link&ouid=112542326404007571040&rtpof=true&sd=true
+
+cal-http://127.0.0.1:5500/cal.html
+
+ppt-https://docs.google.com/presentation/d/1jKkeUyc-PjmxPctDVhHsEupMUvp06yG-/edit?usp=drive_link&ouid=112542326404007571040&rtpof=true&sd=true
+
+12-http://127.0.0.1:5500/12.html
+
+ppt-https://docs.google.com/presentation/d/1aLVlRkslqZ89-eU6RYWAfQeidp6ZZSuw/edit?usp=drive_link&ouid=112542326404007571040&rtpof=true&sd=true
