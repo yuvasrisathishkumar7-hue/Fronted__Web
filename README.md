@@ -26,8 +26,7 @@ lola-https://yuvasrisathishkumar7-hue.github.io/Fronted__Web/lola
 
 ppt-https://docs.google.com/presentation/d/1Ji-rWWNUnGFnP5RjM4AIQPWyg0pUgFnd/edit?usp=drive_link&ouid=112542326404007571040&rtpof=true&sd=true
 
-hover-https://yuvasrisathishkumar7-hue.github.io/Fronted__Web/hoverr.html
-     - http://127.0.0.1:5500/hoverr.html
+hover-http://127.0.0.1:5500/8.html
 
 ppt-https://www.canva.com/design/DAHERXy1SwY/_vtJlfd6r7fs19yY7PPCKw/edit?utm_content=DAHERXy1SwY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
