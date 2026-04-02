@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Calculator</title>
+
+<style>
+body {
+    background: #f3d1ff;
+    font-family: Arial;
+}
+
+.calculator {
+    width: 260px;
+    margin: 60px auto;
+    padding: 15px;
+    background: #d9b3ff;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#display {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    text-align: right;
+}
+
+button {
+    width: 55px;
+    height: 40px;
+    margin: 3px;
+    font-size: 16px;
+}
+</style>
+
+<script>
+function insert(val){
+    document.getElementById("display").value += val;
+}
+
+function clearDisplay(){
+    document.getElementById("display").value = "";
+}
+
+function calculate(){
+    let x = document.getElementById("display").value;
+    document.getElementById("display").value = eval(x);
+}
+</script>
+
+</head>
+
+<body>
+
+<div class="calculator">
+<h3>Calculator</h3>
+
+<input type="text" id="display" readonly><br>
+
+<button style="background:pink;" onclick="insert('7')">7</button>
+<button style="background:pink;" onclick="insert('8')">8</button>
+<button style="background:pink;" onclick="insert('9')">9</button>
+<button style="background:violet;" onclick="insert('/')">/</button><br>
+
+<button style="background:pink;" onclick="insert('4')">4</button>
+<button style="background:pink;" onclick="insert('5')">5</button>
+<button style="background:pink;" onclick="insert('6')">6</button>
+<button style="background:violet;" onclick="insert('*')">*</button><br>
+
+<button style="background:pink;" onclick="insert('1')">1</button>
+<button style="background:pink;" onclick="insert('2')">2</button>
+<button style="background:pink;" onclick="insert('3')">3</button>
+<button style="background:violet;" onclick="insert('-')">-</button><br>
+
+<button style="background:pink;" onclick="insert('0')">0</button>
+<button style="background:pink;" onclick="insert('.')">.</button>
+<button style="background:violet;" onclick="calculate()">=</button>
+<button style="background:violet;" onclick="insert('+')">+</button><br>
+
+<button style="background:hotpink; width:230px;" onclick="clearDisplay()">Clear</button>
+
+</div>
+
+</body>
+</html>
